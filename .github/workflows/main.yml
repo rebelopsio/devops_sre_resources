@@ -1,10 +1,17 @@
+name: tweet on pr
+
+#on:
+#  pull_request_review:
+#    types: [submitted]
+
 on:
-  pull_request_review:
-    types: [submitted]
+  push:
+    branches:
+      - main
 
 jobs:
   post_tweet_job:
-    if: github.event.review.state == 'approved'
+    #if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
     name: Post tweet to Twitter
     steps:
