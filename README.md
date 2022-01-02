@@ -58,3 +58,6 @@ Think of this as a catch all for material that doesn't fall into a neat category
 # Podcasts 
 | Link | Experience Level | Cost | Description |
 | :----| :----: | :----:| :---- |
+# CI/CD
+| Link | Experience Level | Cost | Description |
+| :----| :----: | :----:| :---- |
