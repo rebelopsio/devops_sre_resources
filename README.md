@@ -1,4 +1,4 @@
-# DevOps and SRE Resources for Everyone
+# Cloud, DevOps and SRE Resources for Everyone
 ## Overview:
 
 This is a repo to collect resources beneficial to DevOps and SRE of all levels. Ideally what I would like this repo to follow is an emphasis on perceived expectations of level of material (**Novice, Competent, Proficient**). To keep things organized for the time being, we'll use headings for topics and tables for the rest of the information. 
