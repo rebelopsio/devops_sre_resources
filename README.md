@@ -29,6 +29,7 @@ Think of this as a catch all for material that doesn't fall into a neat category
 | Link | Experience Level | Cost | Description |
 | :----| :----: | :----:| :---- |
 | [100 Days of Kubernetes](https://100daysofkubernetes.io/overview.html)| Novice | Free | A great resource for learning that basics of Kubernetes at a convenient pace. |
+| [Kubernetes Mastery: Hands-On Lessons From A Docker Captain](https://www.udemy.com/course/kubernetesmastery/) | Competent | US$15 on sale | Learn the key Kubernetes features and plugins while practicing DevOps workflows, from a container expert |
 | [Kubernetes Hands-On - Deploy Microservices to the AWS Cloud](https://www.udemy.com/share/101WxE3@oK53RzeM_rXX475tGihcnj9n_2xv5Nun8G8o0KPuHHW3dfh44MlAZscJDp1eLv7WMQ==/) | Competent| US$15 on sale  | Use Kubernetes to deploy a Microservice architecture. You'll deploy, manage and monitor a live Kubernetes cluster.|
 
 # Docker
